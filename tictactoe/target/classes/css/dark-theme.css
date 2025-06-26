@@ -1,0 +1,16 @@
+.root {
+    -fx-background-color: #333333;
+}
+
+.title {
+    -fx-text-fill: #ffffff;
+}
+
+.mode-title, .difficulty-title {
+    -fx-text-fill: #ffffff;
+}
+
+.game-btn {
+    -fx-background-color: #555555;
+    -fx-text-fill: #ffffff;
+}
